@@ -3,6 +3,7 @@ import 'package:appsilma/database/database_helper.dart';
 import 'package:appsilma/screens/login_page.dart';
 import 'package:appsilma/screens/register_page.dart';
 import 'package:appsilma/screens/home_page.dart';
+import 'package:appsilma/models/slot_lapangan.dart';
 
 void main() async {
   // Pastikan Flutter binding siap sebelum akses database
